@@ -1,31 +1,37 @@
+<div align="center">
+
 # ✨ IFMT FRONT-END
 
-╔══════════════════════════════════════════════════════════════╗
-║ 📚 Projeto de Exercício Acadêmico — JavaScript na Faculdade ║
-╚══════════════════════════════════════════════════════════════╝
+### 📚 Projeto de exercício acadêmico para aprender JavaScript na faculdade
 
-> 🚀 Este repositório foi criado como parte dos meus estudos de **JavaScript** na faculdade.
-> O foco é praticar lógica, sintaxe, manipulação da DOM e desenvolvimento front-end de forma progressiva.
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-brightgreen)
+![Disciplina](https://img.shields.io/badge/disciplina-Front--End-blue)
+![Tecnologia](https://img.shields.io/badge/tecnologia-JavaScript-f7df1e?logo=javascript&logoColor=000)
+
+</div>
 
 ---
 
-## 🧭 Visão Geral
+## 🧭 Visão geral
 
-Este projeto reúne atividades e experimentos desenvolvidos durante a disciplina de front-end, com o objetivo de:
+🚀 Este repositório foi criado como parte dos meus estudos de **JavaScript** na faculdade.  
+O foco é praticar lógica, sintaxe, manipulação da DOM e desenvolvimento front-end de forma progressiva.
+
+### 🎯 Objetivos
 
 - 🧠 Fixar fundamentos de JavaScript
 - 🛠️ Treinar resolução de problemas com código
-- 🎯 Aplicar conceitos vistos em aula na prática
-- 📈 Evoluir gradualmente em organização e boas práticas
+- 📌 Aplicar conceitos vistos em aula na prática
+- 📈 Evoluir em organização e boas práticas
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-## 🎓 Sobre o Projeto
+## 🎓 Sobre o projeto
 
-🔹 **Tipo:** Exercício acadêmico  
-🔹 **Área:** Desenvolvimento Web Front-End  
-🔹 **Tecnologia principal:** JavaScript  
-🔹 **Finalidade:** Aprendizado e prática
+- **Tipo:** Exercício acadêmico
+- **Área:** Desenvolvimento Web Front-End
+- **Tecnologia principal:** JavaScript
+- **Finalidade:** Aprendizado e prática
 
 ---
 
@@ -38,7 +44,7 @@ Este projeto reúne atividades e experimentos desenvolvidos durante a disciplina
 
 > 💡 O conteúdo pode evoluir ao longo do semestre conforme novos tópicos forem aprendidos.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## ⚙️ Tecnologias
 
@@ -60,23 +66,16 @@ Este projeto reúne atividades e experimentos desenvolvidos durante a disciplina
 
 > 📝 A estrutura pode variar conforme os exercícios forem adicionados.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## 🚀 Como executar localmente
 
-1. Clone este repositório:
-
 ```bash
 git clone https://github.com/ShrrgnienT-T/IFMT-FRONT-END.git
-```
-
-2. Acesse a pasta do projeto:
-
-```bash
 cd IFMT-FRONT-END
 ```
 
-3. Abra o arquivo `index.html` no navegador.
+Abra o arquivo `index.html` no navegador.
 
 ---
 
@@ -85,12 +84,12 @@ cd IFMT-FRONT-END
 🟢 **Em desenvolvimento para fins educacionais**  
 📚 Projeto de estudo contínuo durante a graduação.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## 🤝 Contribuição
 
 Por ser um projeto acadêmico, contribuições externas não são prioridade no momento.  
-Mas sugestões e ideias são sempre bem-vindas! 😄
+Sugestões e ideias são sempre bem-vindas! 😄
 
 ---
 
@@ -100,6 +99,6 @@ Feito com dedicação para aprendizado em **JavaScript na faculdade**.
 
 💬 _"Aprender fazendo é o melhor caminho."_
 
-╭──────────────────────────────────────────────────────────────╮
-│ ⭐ Se este repositório te ajudou de alguma forma, deixe uma estrela! │
-╰──────────────────────────────────────────────────────────────╯
+---
+
+⭐ Se este repositório te ajudou de alguma forma, deixe uma estrela!
